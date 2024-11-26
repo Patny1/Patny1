@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Artificial Vision and CNN
 - 💞️ I’m looking to collaborate on Sign Language Recognition
 - 📫 How to reach me : pnconstante@espe.edu.ec
-- 😄 Pronouns: She
+- 😄 
 - ⚡ Fun fact: Never stop learning
 
 <!---
